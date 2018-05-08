@@ -12,6 +12,17 @@
 		7D696A6820A0EC6200502054 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D696A6620A0EC6200502054 /* Main.storyboard */; };
 		7D696A6A20A0EC6200502054 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D696A6920A0EC6200502054 /* Assets.xcassets */; };
 		7D696A6D20A0EC6200502054 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D696A6B20A0EC6200502054 /* LaunchScreen.storyboard */; };
+		7DB0EC4F20A2374D007D7CA2 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB0EC4E20A2374D007D7CA2 /* DetailViewController.swift */; };
+		7DB0EC5A20A24B5C007D7CA2 /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7DB0EC5020A24B5B007D7CA2 /* nssl0049.jpg */; };
+		7DB0EC5B20A24B5C007D7CA2 /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7DB0EC5120A24B5B007D7CA2 /* nssl0034.jpg */; };
+		7DB0EC5C20A24B5C007D7CA2 /* nssl0091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7DB0EC5220A24B5B007D7CA2 /* nssl0091.jpg */; };
+		7DB0EC5D20A24B5C007D7CA2 /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7DB0EC5320A24B5C007D7CA2 /* nssl0033.jpg */; };
+		7DB0EC5E20A24B5C007D7CA2 /* nssl0043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7DB0EC5420A24B5C007D7CA2 /* nssl0043.jpg */; };
+		7DB0EC5F20A24B5C007D7CA2 /* nssl0045.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7DB0EC5520A24B5C007D7CA2 /* nssl0045.jpg */; };
+		7DB0EC6020A24B5C007D7CA2 /* nssl0046.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7DB0EC5620A24B5C007D7CA2 /* nssl0046.jpg */; };
+		7DB0EC6120A24B5D007D7CA2 /* nssl0051.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7DB0EC5720A24B5C007D7CA2 /* nssl0051.jpg */; };
+		7DB0EC6220A24B5D007D7CA2 /* nssl0042.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7DB0EC5820A24B5C007D7CA2 /* nssl0042.jpg */; };
+		7DB0EC6320A24B5D007D7CA2 /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7DB0EC5920A24B5C007D7CA2 /* nssl0041.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +33,17 @@
 		7D696A6920A0EC6200502054 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D696A6C20A0EC6200502054 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7D696A6E20A0EC6200502054 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7DB0EC4E20A2374D007D7CA2 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		7DB0EC5020A24B5B007D7CA2 /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nssl0049.jpg; path = "../../../Paul Hudson/HackingWithSwift-master-2/project1-files/Content/nssl0049.jpg"; sourceTree = "<group>"; };
+		7DB0EC5120A24B5B007D7CA2 /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nssl0034.jpg; path = "../../../Paul Hudson/HackingWithSwift-master-2/project1-files/Content/nssl0034.jpg"; sourceTree = "<group>"; };
+		7DB0EC5220A24B5B007D7CA2 /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nssl0091.jpg; path = "../../../Paul Hudson/HackingWithSwift-master-2/project1-files/Content/nssl0091.jpg"; sourceTree = "<group>"; };
+		7DB0EC5320A24B5C007D7CA2 /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nssl0033.jpg; path = "../../../Paul Hudson/HackingWithSwift-master-2/project1-files/Content/nssl0033.jpg"; sourceTree = "<group>"; };
+		7DB0EC5420A24B5C007D7CA2 /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nssl0043.jpg; path = "../../../Paul Hudson/HackingWithSwift-master-2/project1-files/Content/nssl0043.jpg"; sourceTree = "<group>"; };
+		7DB0EC5520A24B5C007D7CA2 /* nssl0045.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nssl0045.jpg; path = "../../../Paul Hudson/HackingWithSwift-master-2/project1-files/Content/nssl0045.jpg"; sourceTree = "<group>"; };
+		7DB0EC5620A24B5C007D7CA2 /* nssl0046.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nssl0046.jpg; path = "../../../Paul Hudson/HackingWithSwift-master-2/project1-files/Content/nssl0046.jpg"; sourceTree = "<group>"; };
+		7DB0EC5720A24B5C007D7CA2 /* nssl0051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nssl0051.jpg; path = "../../../Paul Hudson/HackingWithSwift-master-2/project1-files/Content/nssl0051.jpg"; sourceTree = "<group>"; };
+		7DB0EC5820A24B5C007D7CA2 /* nssl0042.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nssl0042.jpg; path = "../../../Paul Hudson/HackingWithSwift-master-2/project1-files/Content/nssl0042.jpg"; sourceTree = "<group>"; };
+		7DB0EC5920A24B5C007D7CA2 /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nssl0041.jpg; path = "../../../Paul Hudson/HackingWithSwift-master-2/project1-files/Content/nssl0041.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,10 +78,21 @@
 			children = (
 				7D696A6220A0EC6200502054 /* AppDelegate.swift */,
 				7D696A6420A0EC6200502054 /* ViewController.swift */,
+				7DB0EC4E20A2374D007D7CA2 /* DetailViewController.swift */,
 				7D696A6620A0EC6200502054 /* Main.storyboard */,
 				7D696A6920A0EC6200502054 /* Assets.xcassets */,
 				7D696A6B20A0EC6200502054 /* LaunchScreen.storyboard */,
 				7D696A6E20A0EC6200502054 /* Info.plist */,
+				7DB0EC5320A24B5C007D7CA2 /* nssl0033.jpg */,
+				7DB0EC5120A24B5B007D7CA2 /* nssl0034.jpg */,
+				7DB0EC5920A24B5C007D7CA2 /* nssl0041.jpg */,
+				7DB0EC5820A24B5C007D7CA2 /* nssl0042.jpg */,
+				7DB0EC5420A24B5C007D7CA2 /* nssl0043.jpg */,
+				7DB0EC5520A24B5C007D7CA2 /* nssl0045.jpg */,
+				7DB0EC5620A24B5C007D7CA2 /* nssl0046.jpg */,
+				7DB0EC5020A24B5B007D7CA2 /* nssl0049.jpg */,
+				7DB0EC5720A24B5C007D7CA2 /* nssl0051.jpg */,
+				7DB0EC5220A24B5B007D7CA2 /* nssl0091.jpg */,
 			);
 			path = StormViewer;
 			sourceTree = "<group>";
@@ -122,9 +155,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7DB0EC5B20A24B5C007D7CA2 /* nssl0034.jpg in Resources */,
+				7DB0EC6220A24B5D007D7CA2 /* nssl0042.jpg in Resources */,
+				7DB0EC5C20A24B5C007D7CA2 /* nssl0091.jpg in Resources */,
+				7DB0EC5E20A24B5C007D7CA2 /* nssl0043.jpg in Resources */,
+				7DB0EC5A20A24B5C007D7CA2 /* nssl0049.jpg in Resources */,
+				7DB0EC6120A24B5D007D7CA2 /* nssl0051.jpg in Resources */,
+				7DB0EC5F20A24B5C007D7CA2 /* nssl0045.jpg in Resources */,
+				7DB0EC6020A24B5C007D7CA2 /* nssl0046.jpg in Resources */,
 				7D696A6D20A0EC6200502054 /* LaunchScreen.storyboard in Resources */,
 				7D696A6A20A0EC6200502054 /* Assets.xcassets in Resources */,
+				7DB0EC5D20A24B5C007D7CA2 /* nssl0033.jpg in Resources */,
 				7D696A6820A0EC6200502054 /* Main.storyboard in Resources */,
+				7DB0EC6320A24B5D007D7CA2 /* nssl0041.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,6 +178,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7DB0EC4F20A2374D007D7CA2 /* DetailViewController.swift in Sources */,
 				7D696A6520A0EC6200502054 /* ViewController.swift in Sources */,
 				7D696A6320A0EC6200502054 /* AppDelegate.swift in Sources */,
 			);
